@@ -1,10 +1,8 @@
 # mini_hotel_booking
 
-Use Case Diagram
-
- ![Image text](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/1.png)
-
-Requirement 1 (Booking a Room)
+Use Case Diagram  
+ ![Image text](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/1.png)  
+**Requirement 1 (Booking a Room)**    
 UI Prototypes Design Requirements
 
 Note: The HTML page colors and design provided here is just for reference. Associates are free to use any color of their choice.
@@ -17,25 +15,16 @@ Screen 2(booking.jsp) –Book a Room
  ![Image text](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/3.png)
 (a)	On Page Load
 Business Rules
-■	None of the fields should be empty
-
-■	Customer Name should contain only alphabets and space. Its length should be minimum 2 and maximum 30 characters.
-
-■	Email address should be valid
-
-■	Phone must be 10 digits only
-
-■	checkIn date should be greater than current date.
-
-■	checkOut date should not be less than checkIn date.
-
-■	All the datatype validation for the form fields should be done.Error message need to displayed to the associates  for invalid dataype entered.
-
-■	The mandatory condition needs to be checked when user clicks “Confirm Booking” button
-
-UI Design Considerations / Requirements
-■	Alignment should look similar as provided in the design
-
+■	None of the fields should be empty  
+■	Customer Name should contain only alphabets and space. Its length should be minimum 2 and maximum 30 characters.  
+■	Email address should be valid  
+■	Phone must be 10 digits only  
+■	checkIn date should be greater than current date.  
+■	checkOut date should not be less than checkIn date.  
+■	All the datatype validation for the form fields should be done.Error message need to displayed to the associates  for invalid dataype entered.  
+■	The mandatory condition needs to be checked when user clicks “Confirm Booking” button  
+UI Design Considerations / Requirements  
+■	Alignment should look similar as provided in the design  
 ■	Rooms should be dynamically populated to the booking.jsp  page.
 ![Image text](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/4.png)
 (a)	 Validation failure of all the fields
