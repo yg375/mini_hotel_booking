@@ -6,6 +6,7 @@ Use Case Diagram
 UI Prototypes Design Requirements
 
 Note: The HTML page colors and design provided here is just for reference. Associates are free to use any color of their choice.  
+  
 Screen 1(index.jsp)– Index Page
  ![Image text](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/2.png)
  
