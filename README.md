@@ -1,7 +1,7 @@
 # mini_hotel_booking
 
 Use Case Diagram
- ![Image text]https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/1.png
+ ![Image text](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/1.png)
 
 Requirement 1 (Booking a Room)
 UI Prototypes Design Requirements
