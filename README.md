@@ -1,6 +1,6 @@
 ## Use Case Diagram
 
-![](RackMultipart20201029-4-54ek6e_html_4126de581aeed21a.png)
+![](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/1.png)
 
 ##
 
