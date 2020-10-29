@@ -9,13 +9,13 @@ Note: The HTML page colors and design provided here is just for reference. Assoc
 Screen 1(index.jsp)– Index Page
  ![Image text](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/2.png)
  
-UI Design Considerations / Requirements
-■ Create  the links “Book a room” and "Show Booking Details"
-Screen 2(booking.jsp) –Book a Room
- ![Image text](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/3.png)
-(a)	On Page Load
-Business Rules
-■	None of the fields should be empty  
+UI Design Considerations / Requirements  
+■ Create  the links “Book a room” and "Show Booking Details"  
+Screen 2(booking.jsp) –Book a Room  
+ ![Image text](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/3.png)  
+<p align="center">(a)	On Page Load</p>
+Business Rules  
+■	None of the fields should be empty    
 ■	Customer Name should contain only alphabets and space. Its length should be minimum 2 and maximum 30 characters.  
 ■	Email address should be valid  
 ■	Phone must be 10 digits only  
