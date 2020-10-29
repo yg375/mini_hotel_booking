@@ -1,8 +1,8 @@
-## mini_hotel_booking
+# mini_hotel_booking
 
 Use Case Diagram  
  ![Image text](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/1.png)  
-# Requirement 1 (Booking a Room)  
+## Requirement 1 (Booking a Room)  
 UI Prototypes Design Requirements
 
 Note: The HTML page colors and design provided here is just for reference. Associates are free to use any color of their choice.
@@ -44,7 +44,7 @@ UI Design Considerations / Requirements
 ■	On click of  “Confirm Another Booking” link, the application should take the user to “booking.jsp”
 
 
-# Requirement 2(Listing Booking Details)
+## Requirement 2(Listing Booking Details)
 Screen 4(bookingDetails.jsp) –Show Booking Details
   ![Image text](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/8.png)  
 (a)	On Page Load  
