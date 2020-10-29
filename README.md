@@ -18,16 +18,24 @@ Screen 2(booking.jsp) –Book a Room
 (a)	On Page Load
 Business Rules
 ■	None of the fields should be empty
+
 ■	Customer Name should contain only alphabets and space. Its length should be minimum 2 and maximum 30 characters.
+
 ■	Email address should be valid
+
 ■	Phone must be 10 digits only
+
 ■	checkIn date should be greater than current date.
+
 ■	checkOut date should not be less than checkIn date.
+
 ■	All the datatype validation for the form fields should be done.Error message need to displayed to the associates  for invalid dataype entered.
+
 ■	The mandatory condition needs to be checked when user clicks “Confirm Booking” button
 
 UI Design Considerations / Requirements
 ■	Alignment should look similar as provided in the design
+
 ■	Rooms should be dynamically populated to the booking.jsp  page.
 ![Image text](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/4.png)
 (a)	 Validation failure of all the fields
@@ -43,8 +51,11 @@ Screen 3(bookingSuccess.jsp) – Booking Success
  ![Image text](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/7.png)
 Business Rules
 ■	Booking Numbershould be automatically generated  on successful booking.
+
 UI Design Considerations / Requirements
+
 ■	Booking Number should be displayed  for successful booking
+
 ■	On click of  “Confirm Another Booking” link, the application should take the user to “booking.jsp”
 
 
