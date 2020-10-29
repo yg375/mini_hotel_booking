@@ -22,7 +22,7 @@
 
 ![](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/3.png)
 
-<p align="center">On Page Load</p>
+<p align="center">(a) On Page Load</p>
 
 ##### Business Rules
 
@@ -58,7 +58,7 @@
 
 ![](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/6.png)
 
-<p align="center"> On Validation failure of some of the fields </p>
+<p align="center">(c) On Validation failure of some of the fields </p>
 
 ####
 
