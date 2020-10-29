@@ -12,7 +12,7 @@
 
 #### Screen 1(index.jsp)– Index Page
 
-![](RackMultipart20201029-4-54ek6e_html_c296d75401f34ed4.png)
+![](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/2.png)
 
 ##### UI Design Considerations / Requirements
 
@@ -20,10 +20,9 @@
 
 #### Screen 2(booking.jsp) –Book a Room
 
-![](RackMultipart20201029-4-54ek6e_html_2f3a3e59ec12a57.png)
+![](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/3.png)
 
-1.
-#### On Page Load
+<p align="center">On Page Load</p>
 
 ##### Business Rules
 
@@ -48,26 +47,24 @@
 | &quot;A/C Suite&quot; | &quot;A/C Suite&quot; |
 | &quot;Dormitory&quot; | &quot;Dormitory&quot; |
 
-![](RackMultipart20201029-4-54ek6e_html_d97841226ea15ee6.png)
+![](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/4.png)
 
-1.
-#### Validation failure of all the fields
+<p align="center">(a) Validation failure of all the fields </p>
 
-![](RackMultipart20201029-4-54ek6e_html_9a44f8dee0ffbdff.png)
+![](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/5.png)
 
-1.
-#### On Validation failure of some of the fields
 
-![](RackMultipart20201029-4-54ek6e_html_eee75e36c66c238d.png)
+<p align="center">(b) On Validation failure of some of the fields </p>
 
-1.
-#### On Validation failure of some of the fields
+![](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/6.png)
+
+<p align="center"> On Validation failure of some of the fields </p>
 
 ####
 
 #### Screen 3(bookingSuccess.jsp) – Booking Success
 
-![](RackMultipart20201029-4-54ek6e_html_2398c54c89b39b44.png)
+![](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/7.png)
 
 ##### Business Rules
 
@@ -82,10 +79,9 @@
 
 #### Screen 4(bookingDetails.jsp) –Show Booking Details
 
-![](RackMultipart20201029-4-54ek6e_html_6cad1fce8a68594c.png)
+![](https://github.com/yg375/mini_hotel_booking/blob/master/WebContent/8.png)
 
-1.
-#### On Page Load
+<p align="center"> (a) On Page Load </p>
 
 ##### Business Rules
 
